@@ -1,7 +1,7 @@
-# 🛠️ Grist OmniTools
+# 🛠️ Grist Tools
 > **Libérez tout le potentiel de vos documents Grist.**
 
-**Grist OmniTools** est une boîte à outils puissante pour les utilisateurs avancés et les administrateurs de [Grist](https://www.getgrist.com), destinée à faciliter l’analyse, la maintenance, la duplication et l’automatisation de documents Grist.
+**Grist Tools** est une boîte à outils puissante pour les utilisateurs avancés et les administrateurs de [Grist](https://www.getgrist.com), destinée à faciliter l’analyse, la maintenance, la duplication et l’automatisation de documents Grist.
 
 > 🚀 Simplifiez la gestion de vos documents Grist, accélérez vos workflows et sécurisez vos données.
 
@@ -15,7 +15,7 @@
 
 ## Vision globale
 
-**Grist Omnitools** est la plateforme complète qui englobe ces outils, avec une interface web complémentaire permettant :
+**Grist Tools** est la plateforme complète qui englobe ces outils, avec une interface web complémentaire permettant :
 
 * La gestion multi-documents et multi-utilisateurs
 * Le stockage des historiques d’exécution
@@ -109,4 +109,4 @@ Projet porté par
 **Thibaud Delobelle**
 📧 [thibaud.delobelle@oriatec.fr](mailto:thibaud.delobelle@oriatec.fr)
 
-> Grist Omnitools – Libérez tout le potentiel de vos documents Grist.
+> Grist Tools – Libérez tout le potentiel de vos documents Grist.
